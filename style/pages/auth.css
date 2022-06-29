@@ -1,0 +1,21 @@
+.page-auth .row-login {
+    min-height: 70vh;
+}
+.page-auth .section-store-auth h2 {
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 0;
+    color: #0c0d36;
+}
+.page-auth .form-control {
+    border-radius: 8px;
+    background: #f3f3f3;
+}
+.page-auth .btn-signup {
+    background-color: #f3f3f3;
+    color: #bbbbbb;
+}
+.page-auth .btn-signup:hover {
+    background-color: #e7e7e7;
+    color: #0c0d36;
+}
